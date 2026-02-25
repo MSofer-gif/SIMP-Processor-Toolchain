@@ -27,4 +27,4 @@ To prove the architecture's correctness, we wrote the following programs from sc
 
 ## Full Documentation
 For an in-depth look at the architecture, memory layout, and implementation challenges (such as handling DMA timing and two-pass label resolution), please refer to the full project documentation:
-📄 **[SIMP Project Documentation PDF](link_to_pdf_here)**
+📄 **[SIMP Project Documentation PDF](SIMP_Project_Documentation.pdf)**
